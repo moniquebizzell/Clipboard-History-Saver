@@ -1,0 +1,6 @@
+{
+  "name": "Pinboard",
+  "description": "A privacy-first, local clipboard history pinboard utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
